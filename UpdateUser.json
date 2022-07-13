@@ -1,0 +1,38 @@
+{
+    "name": "Bindu",
+    "mob": 9988556600,
+    "emails": [
+        {
+            "id": 1,
+            "emailType": "Primary",
+            "email": "bindu@gmail.com"
+        },
+        {
+            "id": 2,
+            "emailType": "Secondary",
+            "email": "bindu@hotmail.com"
+        }
+    ],
+    "addresses": [
+        {
+            "id": 101,
+            "doorno": "40-101",
+            "floorNo": "2nd Floor",
+            "building": "Shoba Building",
+            "street": "MG Street",
+            "city": "Hyderabad",
+            "postalcode": 560066,
+            "addressType": "HOME"
+        },
+        {
+            "id": 106,
+            "doorno": "60-88",
+            "floorNo": "10th Floor",
+            "building": "Prestige Santhinikethan",
+            "street": "White Field",
+            "city": "Hyderabad",
+            "postalcode": 560088,
+            "addressType": "OFFICE"
+        }
+    ]
+}
